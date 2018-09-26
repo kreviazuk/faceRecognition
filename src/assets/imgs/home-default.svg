@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="127px" viewBox="0 0 178 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>设备信息缺省</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="告警过滤器管理_首页_缺省" transform="translate(-594.000000, -692.000000)">
+            <g id="设备信息概览" transform="translate(18.000000, 627.000000)">
+                <g id="Group-7" transform="translate(576.000000, 65.000000)">
+                    <g id="设备信息缺省">
+                        <g id="Group-14" transform="translate(108.000000, 60.000000)" fill="#E6EDF9" fill-rule="nonzero">
+                            <rect id="Rectangle-69-Copy-2" x="0" y="0.132290163" width="58.8414206" height="12.7654227" rx="6.38271136"></rect>
+                            <rect id="Rectangle-69-Copy-3" x="23.4842552" y="18.4697254" width="46.4621591" height="9.45272725" rx="4.72636362"></rect>
+                            <path d="M32.5147965,12.8517592 L48.2229281,12.8517592 C46.6933583,12.8517592 45.4533971,14.1093838 45.4533971,15.6607423 C45.4533971,17.2121008 46.6933583,18.4697254 48.2229281,18.4697254 L32.5147965,18.4697254 C34.0443663,18.4697254 35.2843276,17.2121008 35.2843276,15.6607423 C35.2843276,14.1093838 34.0443663,12.8517592 32.5147965,12.8517592 Z" id="Combined-Shape"></path>
+                        </g>
+                        <g id="Group-14-Copy" transform="translate(9.000000, 105.000000)" fill="#E6EDF9" fill-rule="nonzero">
+                            <rect id="Rectangle-69-Copy-2" x="0" y="0.103911638" width="47.0573749" height="10.027019" rx="5.01350952"></rect>
+                            <rect id="Rectangle-69-Copy-3" x="18.7811135" y="13.8810542" width="37.1572817" height="7.42495395" rx="3.71247697"></rect>
+                            <path d="M26.3357463,10.1309306 L38.2328066,10.1309306 C37.1932607,10.1309306 36.3505422,10.9704244 36.3505422,12.0059924 C36.3505422,13.0415605 37.1932607,13.8810542 38.2328066,13.8810542 L26.3357463,13.8810542 C27.3752922,13.8810542 28.2180106,13.0415605 28.2180106,12.0059924 C28.2180106,10.9704244 27.3752922,10.1309306 26.3357463,10.1309306 Z" id="Combined-Shape"></path>
+                        </g>
+                        <g id="Group-3" transform="translate(36.000000, 19.000000)">
+                            <g id="Group-2-Copy" transform="translate(25.721170, 39.028573) rotate(-13.000000) translate(-25.721170, -39.028573) translate(5.721170, 13.028573)">
+                                <g id="Rectangle">
+                                    <g id="path-1-link" fill="#FFFFFF">
+                                        <rect id="path-1" x="0" y="0" width="39.8297975" height="51.2604873" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#BDBDBD" stroke-width="2" x="0.781021898" y="0.780604317" width="38.2677537" height="49.6992787" rx="2"></rect>
+                                </g>
+                                <g id="Rectangle-Copy" transform="translate(3.124088, 10.147856)">
+                                    <g id="path-2-link" fill="#FFFFFF">
+                                        <rect id="path-2" x="0.105355457" y="0.611198504" width="33.4064794" height="36.2497805" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#BDBDBD" stroke-width="2" x="0.886377355" y="1.39180282" width="31.8444356" height="34.6885718" rx="2"></rect>
+                                </g>
+                                <ellipse id="Oval-2" stroke="#BDBDBD" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="5.38240507" cy="5.37952732" rx="2.15296203" ry="2.15181093"></ellipse>
+                                <ellipse id="Oval-2-Copy" fill="#BDBDBD" fill-rule="nonzero" cx="30.6797089" cy="4.84157459" rx="1.61472152" ry="1.61385819"></ellipse>
+                                <ellipse id="Oval-2-Copy-5" fill="#BDBDBD" fill-rule="nonzero" cx="26.3737849" cy="4.84157459" rx="1.61472152" ry="1.61385819"></ellipse>
+                                <ellipse id="Oval-2-Copy-3" stroke="#BDBDBD" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="16.1472152" cy="21.5181093" rx="2.15296203" ry="2.15181093"></ellipse>
+                                <ellipse id="Oval-2-Copy-4" stroke="#BDBDBD" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="24.7590633" cy="21.5181093" rx="2.15296203" ry="2.15181093"></ellipse>
+                                <ellipse id="Oval-2-Copy-2" fill="#BDBDBD" fill-rule="nonzero" cx="34.985633" cy="4.84157459" rx="1.61472152" ry="1.61385819"></ellipse>
+                                <path d="M17.238845,27.9682794 C16.8593119,33.2517167 19.2459426,36.2272459 24.3987372,36.8948671" id="Path-14-Copy" stroke="#BDBDBD" stroke-width="2" transform="translate(20.799263, 32.431573) rotate(126.000000) translate(-20.799263, -32.431573) "></path>
+                            </g>
+                            <g id="Group-2" transform="translate(67.901053, 37.079945) rotate(12.000000) translate(-67.901053, -37.079945) translate(42.901053, 5.079945)">
+                                <g id="Rectangle" transform="translate(0.717518, 0.706704)">
+                                    <g id="path-3-link" fill="#FFFFFF">
+                                        <rect id="path-3" x="0" y="0" width="48.2699932" height="62.1229213" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#BDBDBD" stroke-width="2" x="0.781021898" y="0.780604317" width="46.7079494" height="60.5617127" rx="2"></rect>
+                                </g>
+                                <g id="Rectangle-Copy" transform="translate(4.622628, 13.196373)">
+                                    <g id="path-4-link" fill="#FFFFFF">
+                                        <rect id="path-4" x="0.00867374803" y="0.549299939" width="40.4855318" height="43.931347" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#BDBDBD" stroke-width="2" x="0.789695646" y="1.32990426" width="38.923488" height="42.3701383" rx="2"></rect>
+                                </g>
+                                <ellipse id="Oval-2" stroke="#BDBDBD" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="7.2404902" cy="7.2261886" rx="2.60918882" ry="2.60779379"></ellipse>
+                                <ellipse id="Oval-2-Copy" fill="#BDBDBD" fill-rule="nonzero" cx="37.8984589" cy="6.57424016" rx="1.95689162" ry="1.95584535"></ellipse>
+                                <ellipse id="Oval-2-Copy-5" fill="#BDBDBD" fill-rule="nonzero" cx="32.6800813" cy="6.57424016" rx="1.95689162" ry="1.95584535"></ellipse>
+                                <ellipse id="Oval-2-Copy-3" stroke="#BDBDBD" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="20.2864343" cy="26.784642" rx="2.60918882" ry="2.60779379"></ellipse>
+                                <ellipse id="Oval-2-Copy-4" stroke="#BDBDBD" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="30.7231897" cy="26.784642" rx="2.60918882" ry="2.60779379"></ellipse>
+                                <ellipse id="Oval-2-Copy-2" fill="#BDBDBD" fill-rule="nonzero" cx="43.1168366" cy="6.57424016" rx="1.95689162" ry="1.95584535"></ellipse>
+                                <path d="M21.6093888,34.601646 C21.1494301,41.0046784 24.0418035,44.6107418 30.2865091,45.4198362" id="Path-14-Copy" stroke="#BDBDBD" stroke-width="2" transform="translate(25.924283, 40.010741) rotate(126.000000) translate(-25.924283, -40.010741) "></path>
+                            </g>
+                            <path d="M35.721746,56.6055129 L75.718288,56.6055129 C76.5809809,56.6055129 77.2803318,57.3044898 77.2803318,58.1667215 L77.2803318,96.9213241 C77.2803318,97.7835554 76.5809809,98.4825327 75.718288,98.4825327 L14.1027311,98.4825327 C13.2400382,98.4825327 12.5406873,97.7835554 12.5406873,96.9213241 L12.5406873,53.1215985 C12.5406873,52.2593668 13.2400382,51.5603898 14.1027311,51.5603898 L33.9708872,51.5603898 C34.8011374,51.5603898 35.4863219,52.2095328 35.5306981,53.038153 L35.721746,56.6055129 Z" id="Path-13" stroke="#BDBDBD" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <path d="M26.5253383,80.8063483 C26.0340663,87.6452921 29.1233491,91.4968524 35.7931871,92.361029" id="Path-14" stroke="#BDBDBD" stroke-width="2"></path>
+                            <path d="M37.3217593,76.3624748 L52.1611753,76.3624748" id="Line-2" stroke="#BDBDBD" stroke-width="2" stroke-linecap="square"></path>
+                            <ellipse id="Oval" stroke="#BDBDBD" stroke-width="2" cx="44.5891106" cy="76.6283545" rx="11.1472777" ry="11.1413176"></ellipse>
+                            <path d="M44.5182482,69.7502849 L44.5182482,83.8011625" id="Line" stroke="#BDBDBD" stroke-width="2" stroke-linecap="square"></path>
+                            <path d="M93.9308255,27.8017867 L105.562186,33.6846963 C106.716801,34.2686781 107.179139,35.6775898 106.594845,36.8315885 C106.50831,37.0024969 106.401123,37.1621485 106.275684,37.3069655 L88.0434161,58.3558933" id="Path-19" stroke="#BDBDBD" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2"></path>
+                        </g>
+                        <circle id="Oval-30" fill="#E6EDF9" fill-rule="nonzero" cx="4" cy="39" r="4"></circle>
+                        <circle id="Oval-30-Copy" fill="#D8D8D8" fill-rule="nonzero" cx="113.5" cy="14.5" r="5.5"></circle>
+                        <circle id="Oval-30-Copy-7" fill="#D8D8D8" fill-rule="nonzero" cx="139" cy="118" r="3"></circle>
+                        <circle id="Oval-30-Copy-3" fill="#D8D8D8" fill-rule="nonzero" opacity="0.460529384" cx="84.5" cy="2.5" r="2.5"></circle>
+                        <circle id="Oval-30-Copy-6" fill="#D8D8D8" fill-rule="nonzero" opacity="0.460529384" cx="3.5" cy="94.5" r="2.5"></circle>
+                        <circle id="Oval-30-Copy-4" fill="#D8D8D8" fill-rule="nonzero" cx="35.5" cy="98.5" r="4.5"></circle>
+                        <circle id="Oval-30-Copy-5" stroke="#D8D8D8" cx="25" cy="64" r="4"></circle>
+                        <circle id="Oval-30-Copy-2" fill="#E6EDF9" fill-rule="nonzero" cx="157.5" cy="26.5" r="5.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

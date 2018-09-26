@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="告警过滤器管理_全国" transform="translate(-1276.000000, -410.000000)" fill="#39A2FB">
+            <g id="设备信息概览" transform="translate(322.000000, 350.000000)">
+                <g id="定位" transform="translate(954.000000, 60.000000)">
+                    <path d="M6.99997867,19 C6.99997867,19 0,11.0597239 0,7.12498643 C0,3.19033587 3.13427614,0 6.99997867,0 C10.8657665,0 14,3.19035757 14,7.12498643 C14,11.0597239 6.99997867,19 6.99997867,19 Z M6.99997867,4.434602 C5.54028284,4.434602 4.35675434,5.63928804 4.35675434,7.12502984 C4.35675434,8.6108585 5.54028284,9.81550111 6.99997867,9.81550111 C8.45971714,9.81550111 9.64322432,8.6108585 9.64322432,7.12502984 C9.64322432,5.63928804 8.45971714,4.434602 6.99997867,4.434602 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
