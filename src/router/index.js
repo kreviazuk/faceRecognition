@@ -61,8 +61,7 @@ export default new Router({
       component: serviceManage
     }
     ]
-  },
-  {
+  }, {
     path: '*',
     redirect: '/login' // 重定向任意未匹配路径到 /login
   }

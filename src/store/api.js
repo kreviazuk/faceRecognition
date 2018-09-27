@@ -110,6 +110,17 @@ export default {
       })
     }
   },
+  service: {
+    // 服务列表
+    devices: function (params, c) {
+      return Vue.http({
+        headers: header,
+        url: root + '/services',
+        params: params,
+        method: 'GET'
+      })
+    }
+  },
   device: {
     // 设备列表
     devices: function (params, c) {
@@ -233,6 +244,19 @@ export default {
       return Vue.http({
         headers: header,
         url: root + '/devices/positionExist',
+        params: params,
+        method: 'GET'
+      }).then(function (response) {
+        c(response.data);
+      })
+    }
+  },
+  service: {
+    // 服务列表
+    services: function (params, c) {
+      return Vue.http({
+        headers: header,
+        url: 'http://localhost:3000/course',
         params: params,
         method: 'GET'
       }).then(function (response) {
